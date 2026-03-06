@@ -21,6 +21,12 @@ The main objectives of this project are to:
 
 ---
 
+## Database ER Diagram
+
+![Pizza Sales ER Diagram](images/pizza_sales_er_diagram.png)
+
+---
+
 #  Dataset Description
 
 The dataset consists of **four relational tables** representing a pizza store database.
