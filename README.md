@@ -126,25 +126,6 @@ These insights can help restaurants optimize **menu planning, pricing strategy, 
 
 ---
 
-#  Project Structure
-
-```
-Pizza-SQL-data-analysis-project
-
-dataset/
-    orders.csv
-    order_details.csv
-    pizzas.csv
-    pizza_types.csv
-
-sql_queries/
-    pizza_sales_analysis.sql
-
-README.md
-```
-
----
-
 #  Example SQL Query
 
 Example: Finding the **top selling pizzas by quantity**
